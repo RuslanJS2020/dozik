@@ -1,0 +1,40 @@
+body{
+    font-size: 22px;
+    font-family: Tahoma;
+}
+.div1{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: bisque;
+}
+#selec {
+    font-size: 22px;
+    font-family: Tahoma;  
+
+}
+#select2{
+    font-size: 22px;
+    font-family: Tahoma;  
+}
+#n2{
+    font-size: 22px;
+}
+.n2 {
+    font-size: 22px;
+    font-family: Tahoma;
+}
+.n1{
+    font-size: 22px;
+    font-family: Tahoma;  
+
+}
+.but{
+    font-size: 22px;
+}
+.by{
+    font-size: 10px;
+    text-align: center;
+    display: flex;
+    align-items: flex-end;
+}

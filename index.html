@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="test.css" />
+  </head>
+  <body class="body">
+    <div class="div1">
+      <p class="n1">
+        Сколько дневных:
+         <select name="" id="selec">
+          <option value="1">0,1 мЗв (1 девная)</option>
+          <option value="10">1 мЗв (10 дневных)</option>
+        </select>
+      </p>
+      <p class="n2">
+        Мощность дозы: <input type="number" id="n2" />
+        <select name="" id="select2">
+          <option value="1">мкрЗв/ч</option>
+          <option value="0.1">мР/ч</option>
+          <option value="0.027">мкрР/с</option>
+        </select>
+      </p>
+
+      <button class="but" onclick="plus()">РЕЗУЛЬТАТ</button>
+
+      <hr />
+      <p id="out">Время работы:</p>
+      <p class="by">Seferov Ruslan</p>
+    </div>
+  </body>
+</html>
