@@ -11,13 +11,12 @@
   <icon src="img/icon.png" />
   <description>
   	<p>	
-  		Приложение для расчёта времени работы по нарядам - допускам.
+  		Приложение для дозиметристов, для расчёта времени работы по нарядам - допускам.
 		</p>
     <p>	
     	Характеристики:
-						<br/>Tabla de Tamaño de partículas (Milimetros, Malla (Mesh), Pulgadas, Micrones);
-						<br/>Convertidor de Toneladas Métricas a Metros Cúbicos, Metros Cúbicos a Toneladas Métricas (+ Tabla de Densidades de minerales);
-						<br/>Сonvertidor de Unidades (TM, TC, oz, %, ppm, kg, g).	
+						<br/>;
+						<br/> Единицы измерения (мкрЗв/ч, мкрР/с, мР/ч).	
     </p>   
   </description>
 
