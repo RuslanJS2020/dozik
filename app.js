@@ -10,23 +10,23 @@ function plus() {
     h = (100 / num2) * sel2;
     m = h - Math.floor(h);
     m = 60 * m;
-  } else if (num1 == "10" && sel2 == "1" && num2 ==!NaN) {
+  } else if (num1 == "10" && sel2 == "1" ) {
     h = (1000 / num2) * sel2;
     m = h - Math.floor(h);
     m = 60 * m;
-  } else if (num1 == "1" && sel2 == "0.1" && num2 ==!NaN) {
+  } else if (num1 == "1" && sel2 == "0.1" ) {
     h = (100 / num2) * sel2;
     m = h - Math.floor(h);
     m = 60 * m;
-  } else if (num1 == "10" && sel2 == "0.1" && num2 ==!NaN) {
+  } else if (num1 == "10" && sel2 == "0.1" ) {
     h = (1000 / num2) * sel2;
     m = h - Math.floor(h);
     m = 60 * m;
-  } else if (num1 == "1" && sel2 == "0.027" && num2 ==!NaN) {
+  } else if (num1 == "1" && sel2 == "0.027" ) {
     h = (100 / num2) * sel2;
     m = h - Math.floor(h);
     m = 60 * m;
-  } else if (num1 == "10" && sel2 == "0.027" && num2 ==!NaN) {
+  } else if (num1 == "10" && sel2 == "0.027" ) {
     h = (1000 / num2) * sel2;
     m = h - Math.floor(h);
     m = 60 * m;

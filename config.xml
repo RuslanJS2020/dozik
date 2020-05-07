@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = ""
+    xmlns:gap   = ""
+    id          = "DOZIK"
+    versionCode = "1.0"
+    version     = "1.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>DOZIK</name>
+  <icon src="img/icon.png" />
+  <description>
+  	<p>	
+  		Приложение для расчёта времени работы по нарядам - допускам.
+		</p>
+    <p>	
+    	Характеристики:
+						<br/>Tabla de Tamaño de partículas (Milimetros, Malla (Mesh), Pulgadas, Micrones);
+						<br/>Convertidor de Toneladas Métricas a Metros Cúbicos, Metros Cúbicos a Toneladas Métricas (+ Tabla de Densidades de minerales);
+						<br/>Сonvertidor de Unidades (TM, TC, oz, %, ppm, kg, g).	
+    </p>   
+  </description>
+
+  <author href="*****/" email="ruslanjs2020@gmail.com">
+      Ruslan Seferov
+  </author>
+<preference name="android-minSdkVersion"  value="16" />
+<preference name="android-targetSdkVersion"  value="28" />
+</widget>
